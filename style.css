@@ -5,7 +5,8 @@ html{
 }
 body{
     background-color: rgb(213, 247, 253);
-    font-family:cursive;
+    font-family: system-ui;
+    
 }
 h1{
     text-align: center;
